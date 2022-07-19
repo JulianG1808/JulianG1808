@@ -2,7 +2,7 @@
 
 ## I'm Julian and i'm a Full Stack Web Developer
 
-<img align="center" src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="Coder GIF" width="1000" height="400">
+<img align="center" src="https://cdn.hackernoon.com/images/f2px36fy.gif" alt="Coder GIF" width="1000" height="500">
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/CCS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
