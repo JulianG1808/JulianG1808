@@ -29,6 +29,5 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=3855029733&text=Olá!)](https://api.whatsapp.com/send?phone=3855029733&text=Hi!🖖)
 
 ## 😂 Monkey Developer:
-<img align="center" src="https://tenor.com/es/ver/monkey-developer-software-coding-debug-gif-15160023" alt="Coder GIF" width="500" height="400">
-<div class="tenor-gif-embed" data-postid="12172611" data-share-method="host" data-aspect-ratio="1.58" data-width="100%"><a href="https://tenor.com/view/monkey-computer-im-done-dont-want-to-work-gif-12172611">Monkey Computer GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="center" src="https://tenor.com/es/ver/monkey-computer-im-done-dont-want-to-work-gif-12172611" alt="Coder GIF" width="500" height="400">
 
