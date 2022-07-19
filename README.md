@@ -29,6 +29,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=3855029733&text=Olá!)](https://api.whatsapp.com/send?phone=3855029733&text=Hi!🖖)
 
 ## 😂 Monkey Developer:
-<img align="center" src="https://c.tenor.com/JJ_is357rXYAAAAC/spike-monkey-typing.gif" alt="Coder GIF" width="500" height="400">
+<img align="center" src="https://tenor.com/es/ver/monkey-developer-software-coding-debug-gif-15160023" alt="Coder GIF" width="500" height="400">
 
 
