@@ -1,4 +1,4 @@
-### 👋Hi there. Welcome to my profile!
+# 👋Hi there. Welcome to my profile!
 
 ## I'm Julian and i'm a Full Stack Web Developer
 
