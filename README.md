@@ -27,7 +27,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliangomez.xvii@gmail.com)](mailto:juliangomez.xvii@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrojuliangomez/)](https://www.linkedin.com/in/leandrojuliangomez/) 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=3855029733&text=Olá!)](https://api.whatsapp.com/send?phone=3855029733&text=Hi!🖖)
-
-## 😂 Monkey Developer:
-<img align="center" src="https://tenor.com/es/ver/monkey-computer-im-done-dont-want-to-work-gif-12172611" alt="Coder GIF" width="500" height="400">
-
