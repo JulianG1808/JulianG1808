@@ -30,5 +30,5 @@
 
 ## 😂 Monkey Developer:
 <img align="center" src="https://tenor.com/es/ver/monkey-developer-software-coding-debug-gif-15160023" alt="Coder GIF" width="500" height="400">
-
+<div class="tenor-gif-embed" data-postid="12172611" data-share-method="host" data-aspect-ratio="1.58" data-width="100%"><a href="https://tenor.com/view/monkey-computer-im-done-dont-want-to-work-gif-12172611">Monkey Computer GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
